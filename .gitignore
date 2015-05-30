@@ -1,16 +1,18 @@
 # =============== #
 # Unity generated #
 # =============== #
+
 [Ll]ibrary/
 [Tt]emp/
 [Oo]bj/
 [Bb]uild/
 [Uu]nity[Gg]enerated/
+[Ee]xported[Oo]bj/
  
 # ===================================== #
 # Visual Studio / MonoDevelop generated #
 # ===================================== #
-ExportedObj/
+
 *.svd
 *.userprefs
 *.csproj
@@ -20,7 +22,7 @@ ExportedObj/
 *.user
 *.unityproj
 *.booproj
- 
+
 # Unity3D generated meta files
 *.pidb.meta
 
